@@ -1,0 +1,6 @@
+.gantt_tooltip {
+  padding: 10px;
+  position: absolute;
+  z-index: 50;
+  white-space: nowrap;
+}
